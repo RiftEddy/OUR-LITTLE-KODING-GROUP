@@ -10,7 +10,7 @@ def add_new_entry():
 def flip_status():
     name = input("Enter the name to FFlip status: ").strip()
     if not name:
-        print("Name cannot be empty.")
+        print("name cannot be empty.")
         return
     lines = []
     found = False
