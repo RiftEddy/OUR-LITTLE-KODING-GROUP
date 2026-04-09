@@ -1,0 +1,7 @@
+Alice,inactive
+Bob,inactive
+Charlie,active
+
+Alice,inactive
+Alice,active
+Bob,active
